@@ -1,14 +1,16 @@
 # Hi there 👋, I am Mouleshwar Saravanan
-I am a budding Electrical and Computer Engineer who is interested in **Machine Learning, Deep Learning** and **Data Science**. <br>
+I am an aspiring Data Scientist/Analyst with a strong foundation in **Machine Learning**, **Deep Learning** and **Data Science** as well as programming using Python and its associated ML libraries, with good interpersonal skills and an ability to solve complex problems individually as well as part of a team. <br>
 * *Currently:* MTech (Research) in Computational and Data Science student at National Institute of Technology Karnataka, Surathkal (2024 - Present)
 * *Previously:* BTech Electrical and Computer Engineering student at Amrita School of Engineering, Coimbatore (2020 - 24)
 
 ## Skills and Competencies
-* Languages: **Python (Intermediate), MATLAB (Intermediate), R (Basic)**
-* Tools: **Jupyter, Visual Studio Code, MySQL Workbench, R Studio**
+* Languages: **Python (Intermediate), MATLAB (Intermediate)**
+* Tools: **Jupyter, Visual Studio Code, MySQL Workbench**
 * Databases: **SQL**
-* Libraries: **Pandas, NumPy, Matplotlib, Scikit-Learn, Keras**
+* Libraries: **Pandas, NumPy, Matplotlib, Scikit-Learn, Keras, PyTorch**
 * Soft Skills: **Time Management, Teamwork, Team Leadership**
+
+Currently I am working on improving weather forecasts using advanced deep learning and hybrid methods, which involves developing an efficient probabilistic model and comparing with state-of-the-art data driven ML models for short and medium range weather forecasts.
 
 
 
