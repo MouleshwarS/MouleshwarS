@@ -4,9 +4,9 @@
 
 I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machine Learning**, **Deep Learning**, and **Data Science**. I specialize in Python and its associated ML libraries, combining technical problem-solving with effective interpersonal skills.
 
-🎓 **MTech (Research) - Computational and Data Science** NITK Surathkal (2024 - Present)
+🎓 **MTech (Research) - Computational and Data Science** &mdash; NITK Surathkal (2024 - Present)
 
-🎓 **BTech - Electrical & Computer Engineering** ASE Coimbatore (2020 - 2024)
+🎓 **BTech - Electrical & Computer Engineering** &mdash; ASE Coimbatore (2020 - 2024)
 
 ---
 
@@ -83,9 +83,6 @@ I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machin
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
-  </a>
-  <a href="https://www.texstudio.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/texstudio.svg" alt="TeXstudio" width="50" height="50"/>
   </a>
 </p>
 
