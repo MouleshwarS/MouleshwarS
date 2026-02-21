@@ -2,7 +2,7 @@
 
 # Hi there 👋, I am Mouleshwar Saravanan
 
-I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machine Learning**, **Deep Learning**, and **Data Science**. I specialize in Python and its associated ML libraries, combining technical problem-solving with effective interpersonal skills.
+I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machine Learning** and **Deep Learning**, as well as programming using Python and its associated ML libraries.
 
 🎓 **MTech (Research) - Computational and Data Science** &mdash; NITK Surathkal (2024 - Present)
 
