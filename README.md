@@ -28,11 +28,7 @@ I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machin
 
 ## Skills and Competencies
 
-To increase the size while maintaining the correct proportions and alignment, I have bumped the standard icons to 70px (from 50px). For the wider logos (Seaborn, Colab, and Scikit-learn), I have adjusted the widths proportionally so they don't look squashed compared to the square icons.
-
-Here is the updated code for your README:
-
-Languages & Tools
+### Languages & Tools
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="70"/>
@@ -48,7 +44,7 @@ Languages & Tools
   </a>
 </p>
 
-Libraries
+### Libraries
 <p align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="70" height="70"/>
@@ -76,14 +72,17 @@ Libraries
   </a>
 </p>
 
-Databases
+### Databases
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="70" height="70"/>
   </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="80" height="70"/>
+  </a>
 </p>
 
-IDEs
+### IDEs
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70"/>
