@@ -19,13 +19,15 @@ I am an aspiring Data Scientist/Analyst with a strong foundation in **Machine Le
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="LaTeX"/>
   </p>
 
-* Libraries: **PyTorch, Scikit-Learn, Pandas, NumPy, Keras**
+* Libraries: **PyTorch, TensorFlow, Scikit-Learn, Pandas, NumPy, Keras, Seaborn**
   <p align="left">
     <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
     <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras"/>
+    <img src="https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   </p>
 
 Currently I am working on improving weather forecasts using advanced deep learning and hybrid methods, which involves developing an efficient probabilistic model and comparing with state-of-the-art data driven ML models for short and medium range weather forecasts.
