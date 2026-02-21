@@ -9,7 +9,7 @@ I am an aspiring Data Scientist/Analyst with a strong foundation in **Machine Le
   <a href="mailto:mouleshwar2001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/mouleshwarsaravanan" target="_blank">
+  <a href="www.linkedin.com/in/mouleshwarsaravanan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[https://twitter.com/your-twitter-username](https://x.com/Mouleshwar83365)" target="_blank">
