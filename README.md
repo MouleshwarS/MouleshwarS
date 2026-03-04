@@ -4,9 +4,9 @@
 
 I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machine Learning** and **Deep Learning**, as well as programming using Python and its associated ML libraries.
 
-🎓 **MTech (Research) - Computational and Data Science** &mdash; NITK Surathkal (2024 - Present)
+🎓 **MTech (Research) - Computational and Data Science** &mdash; National Institute of Technology Karnataka, Surathkal (2024 - Present)
 
-🎓 **BTech - Electrical & Computer Engineering** &mdash; ASE Coimbatore (2020 - 2024)
+🎓 **BTech - Electrical & Computer Engineering** &mdash; Amrita School of Engineering, Coimbatore (2020 - 2024)
 
 ---
 
