@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi there 👋, I am Mouleshwar Saravanan
 
 I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machine Learning** and **Deep Learning**, as well as programming using Python and its associated ML libraries.
@@ -93,10 +91,3 @@ I am an aspiring **Data Scientist/Analyst** with a strong foundation in **Machin
 </p>
 
 ---
-
-## 🔭 Current Focus
-I am currently working on **improving weather forecasts using advanced deep learning and hybrid methods**.
-
----
-
-</div>
